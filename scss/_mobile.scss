@@ -73,6 +73,18 @@
     }
     .projects{
         grid-template-columns: 1fr;
+        box-sizing: border-box;
+    }
+    #contact{
+        .lg-heading{
+            font-size: 4rem;
+        }
+        .boxes{
+            div{
+                width:100%;
+                font-size: 1rem;
+            }
+        }
     }
 
 
